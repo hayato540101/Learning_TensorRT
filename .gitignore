@@ -1,0 +1,11 @@
+*.csv
+*.json
+*.cache
+
+*.onnx
+*.plan
+*.engine
+
+__pycache__
+
+docker
